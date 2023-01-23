@@ -1,0 +1,1 @@
+Projeto feito em dupla, trata-se de um jogo de Dragon ball feito para uma avaliação de Algoritmos 1, foi desenvolvido em python utilizado da biblioteca Pygame
